@@ -1,4 +1,4 @@
-# ZENTRA — AI Travel Optimization Platform
+# ZENTRA — AI Travel Optimization Platform 
 
 ZENTRA is a full-stack travel planning web app that finds every possible route between any two cities — direct flights, direct trains, connecting flights via hubs, connecting trains, and mixed flight+train options. It compares them by cost and time, optionally plans your hotel stay and food budget, and generates AI-powered travel insights.
 
